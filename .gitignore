@@ -1,0 +1,20 @@
+# Pastas de dependências e builds (Essenciais para o critério do projeto)
+node_modules/
+/dist
+/.angular
+/.nx
+
+# Arquivos de log e sistema
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Configurações locais de IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
