@@ -18,3 +18,10 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Pastas de ferramentas de IA
+.claude/
+.cursor/
+.gemini/
+.junie/
+.windsurf/
